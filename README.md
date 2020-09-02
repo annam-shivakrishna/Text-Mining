@@ -62,7 +62,7 @@ Keyword extraction
 
 Collecting informative or important words in a text. It helps summarize the content of a text and recognize the main topics which are being discussed.
 
-![Keyword Extraction]()
+![Keyword Extraction](product-review-example.png)
 
 
 
