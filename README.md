@@ -1,5 +1,11 @@
 # Text-Mining
 
+Text Analytics 
+
+1. Topic Analyxer
+2. Sentiment Analyzer
+3. Feature Extractor 
+
 
 ![Sentiment analysis](what-is-sentiment-analysis6@2x.png)
 
@@ -63,6 +69,21 @@ Keyword extraction
 Collecting informative or important words in a text. It helps summarize the content of a text and recognize the main topics which are being discussed.
 
 ![Keyword Extraction](product-review-example.png)
+
+First Doing Sentiment analysis dividing into positive, Negative and Neutral sentiments and then performing keyword extraction on following.
+
+
+keyword Analysis Techniques:
+
+1. TF-IDF 
+2. Rapid Automatic Keyword Extraction
+3. Linguistic approaches
+4. Graph Based approach
+5. Machine learning based approach
+6. Hybrid approach 
+
+
+1. TF-IDF -  
 
 
 
