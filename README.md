@@ -1,4 +1,4 @@
 # Text-Mining
 
 
-![](what-is-sentiment-analysis6@2x.png)
+![Sentiment analysis](what-is-sentiment-analysis6@2x.png)
