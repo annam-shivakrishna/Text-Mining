@@ -32,9 +32,54 @@ predefined set of positive and negative words given input text document and coun
  2. Linear Regression 
  3. Deep learning 
  
- ![Sentiment analysis Training]()
- ![Sentiment analysis Testing]()
+ ![Sentiment analysis Training and Testing](how-does-sentiment-analysis-work@2x.png)
  
+ It was the best of times,
+it was the worst of times,
+it was the age of wisdom,
+it was the age of foolishness
+
+
+
+Sentiment analysis Challenges
+
+1. Subjectivity and Tone
+2. Context and Polarity
+3. Irony and Sarcasm
+4. Comparisons
+5. Emojis
+
+
+Sentiment Analysis Applications 
+
+1. Social media monitoring
+Brand monitoring
+Voice of customer (VoC)
+Customer service
+Market research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
