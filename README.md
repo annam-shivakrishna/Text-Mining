@@ -53,10 +53,10 @@ Sentiment analysis Challenges
 Sentiment Analysis Applications 
 
 1. Social media monitoring
-Brand monitoring
-Voice of customer (VoC)
-Customer service
-Market research
+2. Brand monitoring
+3. Voice of customer (VoC)
+4. Customer service
+5. Market research
 
 
 
