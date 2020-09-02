@@ -1,4 +1,4 @@
 # Text-Mining
 
 
-! [Image of Yaktocat] (https://www.analyticsvidhya.com/wp-content/uploads/2015/07/github_logo.png)
+! [Image of Yaktocat] (Text Mining/what-is-sentiment-analysis6@2x.png)
